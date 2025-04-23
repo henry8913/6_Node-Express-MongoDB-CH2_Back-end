@@ -92,4 +92,4 @@ Progetto creato da [Henry](https://github.com/henry8913) per scopi didattici.
 
 ## 📄 Licenza
 
-Questo progetto è rilasciato sotto licenza [MIT](https://github.com/henry8913/6_Node-Express-MongoDB-CH2_Back-end.git/blob/main/LICENSE.txt). Consulta il file `LICENSE` per maggiori dettagli.
+Questo progetto è rilasciato sotto licenza [MIT](https://github.com/henry8913/6_Node-Express-MongoDB-CH2_Back-end/blob/main/LICENSE.txt). Consulta il file `LICENSE` per maggiori dettagli.
